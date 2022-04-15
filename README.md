@@ -19,4 +19,4 @@ In this challenge, we will be creating tables to show our client, Pewlett Hackar
 ## Summary![mentor_titles](https://user-images.githubusercontent.com/97993428/163570222-15603d04-b812-4fc6-b8ed-b4ad550bf010.png)
 
 
-No, there are not enough employees to mentor the incoming employees.  In all titles, there are less than 1% of mentors available to mentor.  Unless, Pewlett Hackard broadens their requirements its hard to see how they will even begin to make a difference in the outflow of employees vs the inflow of qualified employees especially at senior levels.
+No, there are not enough employees to mentor the incoming employees.  In all titles, there are less than 1% of mentors available to mentor.  Unless, Pewlett Hackard broadens their requirements its hard to see how they will even begin to make a difference in the outflow of employees vs the inflow of qualified employees especially at senior levels.  Unless Pewlett Hackard expands the boundaries of their mentor program requirements or they structure a completely new set of boudaries to better serve their upcoming exodus.  
